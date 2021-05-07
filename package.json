@@ -1,0 +1,19 @@
+{
+  "name": "royal-banquet",
+  "version": "1.0.0",
+  "description": "Not Done.Please don't use until README has been updated!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJ-JR30/Royal-Banquet.git"
+  },
+  "author": "Royal ACE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJ-JR30/Royal-Banquet/issues"
+  },
+  "homepage": "https://github.com/DJ-JR30/Royal-Banquet#readme"
+}
